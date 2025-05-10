@@ -15,3 +15,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  background-image: url('/assets/landingpage.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+
